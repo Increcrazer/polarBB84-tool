@@ -35,8 +35,9 @@
 - 变异系数：定义为标准差/平均值，用来衡量脉冲峰值强度稳定性
 - 对比度测量功能：包括S/D和S/V的峰值对比度以及门宽对比度测量
 - 最优门宽寻找：自动寻找对比度最高时对应的门宽，门宽扫描结果在门宽分析面板中:
-    ![](https://s2.loli.net/2025/12/28/nzXRmjpub8BNYLM.png)
-    
+
+![](https://s2.loli.net/2025/12/28/nzXRmjpub8BNYLM.png)
+
 典型处理结果如下：
 
 ![](https://s2.loli.net/2025/12/28/NDcuoJghBpCFKev.png)
