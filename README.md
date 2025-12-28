@@ -26,6 +26,7 @@
 - 测量频率和标准差：脉冲频率和标准差
 
 典型处理结果如下：
+
 ![](https://s2.loli.net/2025/12/28/39EwlyDLz4Ocubj.png)
 
 ### SDV面板
@@ -35,6 +36,7 @@
 - 对比度测量功能：包括S/D和S/V的峰值对比度以及门宽对比度测量
 - 最优门宽寻找：自动寻找对比度最高时对应的门宽，门宽扫描结果在门宽分析面板中:
     ![](https://s2.loli.net/2025/12/28/nzXRmjpub8BNYLM.png)
+    
 典型处理结果如下：
 
 ![](https://s2.loli.net/2025/12/28/NDcuoJghBpCFKev.png)
