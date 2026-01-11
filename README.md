@@ -1,4 +1,5 @@
-# PBB84analysis V2.3 更新
+# PBB84analysis 更新说明
+## V2.3
 - csv读取换成readmatrix，对于大型excel读取速度更快
 - app界面更新，取消app自动调整
 - 改y轴线性/log以及改横坐标取值范围后即刻更新图像
