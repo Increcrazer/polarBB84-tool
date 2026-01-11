@@ -1,3 +1,9 @@
+# PBB84analysis V2.3 更新
+- csv读取换成readmatrix，对于大型excel读取速度更快
+- app界面更新，取消app自动调整
+- 改y轴线性/log以及改横坐标取值范围后即刻更新图像
+- 更新find_close_elements函数算法，减小内存需求
+
 # PBB84analysis
 ## 基本功能
 用于进行偏振调制BB84量子光源的性能测试，具有以下特性：
