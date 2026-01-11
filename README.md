@@ -1,9 +1,10 @@
 # PBB84analysis 更新说明
 ## V2.3
 - csv读取换成readmatrix，对于大型excel读取速度更快
-- app界面更新，取消app自动调整
+- app界面优化布局，取消app自动调整
 - 改y轴线性/log以及改横坐标取值范围后即刻更新图像
 - 更新find_close_elements函数算法，减小内存需求
+- SDVPNRL面板中还原出的SDV数据支持保存
 
 # PBB84analysis
 ## 基本功能
